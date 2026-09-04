@@ -17,4 +17,4 @@ Global Superstore sales data (2011–2014, 51,290 orders), sourced from Kaggle.
 
 ## Files
 - `retail-sales-eda.ipynb` — full analysis notebook
-- `retail-sales-eda.html` — exported, viewable version (no Jupyter required)
+- `retail-sales-eda.html` — exported, viewable version
